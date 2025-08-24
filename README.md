@@ -5,7 +5,7 @@ I'm a passionate C++ developer and aspiring systems programmer.
 ## 🚀 Tech Stack
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
-![Js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Js](https://img.shields.io/badge/Js-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5dotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
