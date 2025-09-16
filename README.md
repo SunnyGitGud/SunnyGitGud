@@ -11,9 +11,13 @@ I'm a passionate C++ developer and aspiring systems programmer.
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
-
+---
 
 ## 📈 GitHub Stats
-![Sunny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunnyGitGud&show_icons=true&theme=tokyonight)
-![Sunny's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SunnyGitGud&show_icons=true&theme=tokyonight)
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SunnyGitGud&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SunnyGitGud&show_icons=true&theme=tokyonight&layout=compact" />
+</p>
