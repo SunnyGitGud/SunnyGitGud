@@ -16,3 +16,4 @@ I'm a passionate C++ developer and aspiring systems programmer.
 
 ## 📈 GitHub Stats
 ![Sunny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunnyGitGud&show_icons=true&theme=tokyonight)
+![Sunny's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SunnyGitGud&show_icons=true&theme=tokyonight)
