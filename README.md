@@ -12,6 +12,7 @@ I'm a passionate C++ developer and aspiring systems programmer.
 ![Js](https://img.shields.io/badge/Js-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) 
 ![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5dotjs&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  
 
 ### ⚙️ Tools
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white) 
