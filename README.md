@@ -19,6 +19,5 @@ I'm a passionate C++ developer and aspiring systems programmer.
 
 <p align="center">
   <img width="48%" height="200" src="https://github-readme-stats.vercel.app/api?username=SunnyGitGud&show_icons=true&theme=tokyonight" />
-  <img width="48%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=SunnyGitGud&show_icons=true&theme=tokyonight&layout=compact" />
 </p>
 
