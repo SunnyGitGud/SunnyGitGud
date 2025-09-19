@@ -26,3 +26,8 @@ I'm a passionate C++ developer and aspiring systems programmer.
   <img width="48%" height="200" src="https://github-readme-stats.vercel.app/api?username=SunnyGitGud&show_icons=true&theme=tokyonight" />
 </p>
 
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sunnygitgud?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+</p>
