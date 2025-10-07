@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sunny!
 
-I'm a passionate C++ developer and aspiring systems programmer.
+I'm a passionate Go, C++ developer and aspiring systems programmer.
 
 # 🚀 Tech Stack
 
