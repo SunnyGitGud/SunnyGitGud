@@ -22,6 +22,6 @@ I'm a passionate Go, C++ developer and aspiring systems programmer.
 
 ## 📊 GitHub & LeetCode Stats
 
-| GitHub | LeetCode |
-|--------|----------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SunnyGitGud&show_icons=true&theme=tokyonight) 
+| GitHub | 
+|--------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SunnyGitGud&show_icons=true&theme=tokyonight) |
