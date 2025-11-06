@@ -20,7 +20,7 @@ I'm a passionate Go, C++ developer and aspiring systems programmer.
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)  
 
 
-## 📊 GitHub & LeetCode Stats
+## 📊 GitHub
 
 | GitHub | 
 |--------|
